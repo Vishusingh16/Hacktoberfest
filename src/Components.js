@@ -24,7 +24,7 @@ const Components = () => {
     </p>
 
     <ul>
-      <li class="price">$149.99</li>
+      <li class="prc-tag">$149.99</li>
       <li><s>$169.99</s></li>
     </ul>
 

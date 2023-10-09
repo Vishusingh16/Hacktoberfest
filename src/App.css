@@ -22,9 +22,8 @@ body {
   min-height: calc(100vh - 0.2px);
   margin: 0 1.5rem;
   
-}
+}button,
 
-button,
 li {
   font-family: inherit;
 }
@@ -40,9 +39,9 @@ h1 {
 
 h1,
 .prc-tag   {
-  font-weight:800;
-  margin-left: .5rem;
-  font-family: "Fraunces", sans-serif;
+  font-weight:900;
+  margin-left:.5rem;
+  font-family:"Fraunces", sans-serif;
 }
 
 h2 {

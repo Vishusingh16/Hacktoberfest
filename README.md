@@ -1,23 +1,6 @@
 # HACKTOBER FEST 2023 WEB DEV
 
 This is a solution to the Problem statement given in the HACKTOBERFEST 2023
-
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -34,8 +17,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
+- Live Site URL: [https://hacktobercommit.netlify.app/]
 ## My process
 
 ### Built with
@@ -69,19 +51,10 @@ const proudOfThisFunc = () => {
 
 If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
-
-
-
 ### Useful resources
 
 - [Example resource 1](https://chat.openai.com/c/96dc807a-e122-4524-a646-1b4849a2ac2e) - This helped me for deploying my site . I really liked this pattern and will use it going forward.
 - [Example resource 2](https://www.w3schools.com) - This helped me in styling of the file
-
-
-## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-
 
 
 ## Acknowledgments
